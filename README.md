@@ -53,7 +53,7 @@ Confira o projeto online [aqui](https://jrvalerio.github.io/travelgram/).
 
 ## 🖼️ Screenshots
 
-![Screenshot da página](https://jrvalerio.github.io/travelgram/screenshot.png)
+![Screenshot da página](https://raw.githubusercontent.com/JrValerio/travelgram/refs/heads/main/assets/travelgram.png)
 
 ## 🚀 Sobre o Projeto
 
